@@ -1,4 +1,11 @@
 body {
-  width: 80;
-  
+  width: 800px;
+  margin: auto;
+}
+
+.container {
+}
+
+.title {
+  text-align: center;
 }
